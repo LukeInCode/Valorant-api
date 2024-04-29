@@ -15,8 +15,8 @@ Send a GET request to https://api.henrikdev.xyz/valorant/v2/mmr/{region}/{name}/
 
 ## Example
  * Example #1;
-    * Account Name: Luke;
-    * Account Region: Europe;
+    * Account Name: Luke
+    * Account Region: Europe
     * Account TAG: 000
     * URL: api.henrikdev.xyz/valorant/v2/mmr/eu/Luke/000
 
