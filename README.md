@@ -18,7 +18,7 @@ Send a GET request to https://api.henrikdev.xyz/valorant/v2/mmr/{region}/{name}/
     * Account Name: Luke;
     * Account Region: Europe;
     * Account TAG: 000
-    * URL: https://api.henrikdev.xyz/valorant/v2/mmr/eu/Luke/000
+    * URL: api.henrikdev.xyz/valorant/v2/mmr/eu/Luke/000
 
 For any doubt don't hesitate to text me. Here the api [Reference](https://app.swaggerhub.com/apis-docs/Henrik-3/HenrikDev-API/3.0.0).
 
